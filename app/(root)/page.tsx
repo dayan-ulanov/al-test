@@ -5,7 +5,7 @@ export default function Home() {
 
 
   return (
-    <main>
+    <main className='container max-w-lg min-w-md mx-auto px-4'>
       <Heroes />
     </main>
   )
