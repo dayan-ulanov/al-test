@@ -1,6 +1,6 @@
 "use client";
 
-import { useGetProductQuery } from "@/services/getProduct/products";
+import { useGetProductQuery } from "@/lib/services/getProduct/products";
 
 
 const Heroes = () => {
